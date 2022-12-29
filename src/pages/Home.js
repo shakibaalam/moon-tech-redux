@@ -10,7 +10,7 @@ const Home = () => {
   let content;
 
   if (loading) {
-    content = <p>Loading</p>;
+    content = <p>Loading...</p>;
   }
 
   if (error) {

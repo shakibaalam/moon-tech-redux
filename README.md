@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Live site link: [https://moon-tech-redux1.netlify.app](https://moon-tech-redux1.netlify.app).
 
 ## Available Scripts
 
